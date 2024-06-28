@@ -6,7 +6,7 @@ terraform {
     }
   }
 
-  backend "s3" {
+  backend "s3" { #defining to where the backend file will be created
     bucket = "filipe-remote-state-bucket"
     key    = "Terraform-Keypair/terraform.tfstate"
     region = "us-east-1"
