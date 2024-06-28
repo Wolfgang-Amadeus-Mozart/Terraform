@@ -1,6 +1,6 @@
 # Terraform Cloud Resources Creation
 
-Welcome to the Terraform repository! This repository provides Terraform configurations and examples to teach you how to create cloud resources in AWS and Azure using Terraform.
+Welcome to my Terraform repository! This repository provides Terraform configurations and examples to teach you how to create cloud resources in AWS and Azure using Terraform.
 
 ## Introduction
 
